@@ -53,6 +53,7 @@ function truncate(str, n) {
       </div>
       {/* div > 2 buttons */}
       {/* description */}
+      <div className="banner--fadeBottom" />
     </header>
   );
 }
